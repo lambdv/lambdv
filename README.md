@@ -1,6 +1,6 @@
 <p align="center">
-  Full-Stack Web Developer, <br/>
-  3rd Year Software Engineering Student. 🐏
+  <b>Full-Stack</b> Web Developer, <br/>
+  currently a 3rd Year <b>Software Engineering</b> student. 🐏
 </p>
 
 <p align="center">
