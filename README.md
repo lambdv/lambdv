@@ -1,6 +1,6 @@
 <p align="center">
   <b>Full-Stack</b> Web Developer, <br/>
-  currently a 3rd Year <b>Software Engineering</b> student. 🐏
+  currently a 3rd Year <b>Software Engineering</b> student at vic. 🐏
 </p>
 
 <p align="center">
